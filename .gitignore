@@ -8,4 +8,5 @@
 /var/
 /vendor/
 /new-feature.sh/ 
+/.commit-and-push.sh
 ###< symfony/framework-bundle ###
